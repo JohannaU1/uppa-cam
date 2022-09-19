@@ -205,7 +205,7 @@ border-radius: 5px;
 
 .information-field{
   display: grid;
-  
+  background-color: pink;
   align-items: flex-start;
 }
 
