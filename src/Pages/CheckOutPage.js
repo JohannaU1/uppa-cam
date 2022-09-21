@@ -1,4 +1,5 @@
 
+import "../styles/checkOutPage.css"
 import React from "react";
 import OrderIcon from "../Picture/OrderIcon.jpg"
 import Icons from "../Components/Icons";

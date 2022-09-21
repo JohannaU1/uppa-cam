@@ -1,0 +1,30 @@
+
+
+.headLayout{
+
+    background-color: rgb(243, 235, 235);
+   
+    margin: 0;
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-items:flex-end ;
+    gap: 40px;
+    
+  }
+  
+  .nav-link{
+    color: green;
+    font-size: 22px;
+    text-decoration: none;
+    
+  }
+  
+  
+  .logo{
+    color: black;
+    margin-right: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+  }

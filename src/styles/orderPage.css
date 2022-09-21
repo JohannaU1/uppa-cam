@@ -1,0 +1,5 @@
+.information-field{
+    display: grid;
+    background-color: pink;
+    align-items: flex-start;
+  }

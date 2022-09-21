@@ -1,4 +1,5 @@
-
+import "../styles/nav.css"
+import "../styles/homePage.css"
 import Aside from "../Components/Aside";
 import pentaxK70 from "../Picture/PentaxK70.jpg"
 import canon from "../Picture/canonEos2000D.jpg";

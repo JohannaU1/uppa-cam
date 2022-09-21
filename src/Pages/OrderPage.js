@@ -1,3 +1,5 @@
+import "../styles/orderPage.css"
+
 const orderPage = () => {
     return <div className="information-field">
         <input type="text" placeholder="Name"></input>
