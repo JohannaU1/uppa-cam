@@ -3,7 +3,7 @@
 .headLayout{
 
     background-color: rgb(243, 235, 235);
-   
+   height: 2.5rem;
     margin: 0;
     padding: 30px;
     display: flex;

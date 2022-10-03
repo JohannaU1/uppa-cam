@@ -1,3 +1,6 @@
+
+
+/*
 .main-content{
     border: 1px solid black;
     display: grid;
@@ -6,7 +9,7 @@
     
     /*width: 100%;
     display: flex;
-    flex-wrap: wrap;*/
+    flex-wrap: wrap;
     
     
   }
@@ -30,7 +33,7 @@
   
   .main-info{
     /*width: 375px;*/
-    
+   /* 
     color: yellowgreen;
     display: flex;
     justify-content: center;
@@ -43,6 +46,8 @@
   }
   /*https://www.youtube.com/watch?v=jx5jmI0UlXU*/
   /*Hur man förflyttar runt saker*/
+
+  /*
   .btn-pos{
     position: relative;
     top: 225px;
@@ -131,3 +136,24 @@
   }
   
   /*End Of HomePage*/
+
+  /* ___________________________________________________________________________________________________________________________________-- */
+
+  .main-content{
+    display: grid;
+    grid-template-rows: repeat(2,500px) 250px;
+    grid-template-columns: repeat(3, 1fr)  ;
+    flex-wrap: wrap;
+    
+  }
+
+  .main-info{
+    display: grid;
+   
+    grid-template-rows: repeat(1, 100px );
+    grid-template-columns: repeat(3, 150px);
+
+    
+    
+   
+  }
